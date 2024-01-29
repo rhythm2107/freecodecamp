@@ -17,6 +17,10 @@ class Person:
         print("Smiling! :)")
 
 user = Person(25, 80, 177, "Jon", "Snow", "You know nothing, Jon Snow")
+user2 = Person(44, 102, 185, "Juliet", "Krosinski", "I Like coconuts")
 
 print(user.catch_phrase, user.last_name)
 user.smile()
+
+print(user.first_name, user2.first_name)
+print(user2.first_name, user2.last_name)
