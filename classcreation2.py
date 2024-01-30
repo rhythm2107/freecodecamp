@@ -15,4 +15,4 @@ an = PartyAnimal()
 an.party()
 an.party()
 an = 42
-print('an contains', an)
+print('an has', an)
