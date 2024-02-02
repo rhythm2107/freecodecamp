@@ -91,7 +91,7 @@ smaller) than content.sqlite because it also compresses the header and body text
 
 Each time gmodel.py runs - it completely wipes out and re-builds index.sqlite, allowing
 you to adjust its parameters and edit the mapping tables in content.sqlite to tweak the 
-data cleaning process.
+data cleaning process
 
 Running gmodel.py works as follows:
 
